@@ -1,0 +1,32 @@
+header{
+    background: linear-gradient(180deg, #028298 0%, #76B9C5 51%, #C7A296 85%);
+    height: 100vh;
+    display: flex;
+}
+h1{
+    display: flex;
+    background: black;
+    color: white;
+    align-items: center;
+    padding:20px;
+   
+}
+
+div{  
+    height:auto;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    font-size: 19px;
+    width: 30%;
+    margin: 20px;
+    letter-spacing: 3px;
+}
+img{
+    margin: 20px;
+    width: 200px;
+    height: 300px;
+    border-radius:40%;
+}
